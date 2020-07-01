@@ -38,7 +38,7 @@ This project was developed with the following technology:
 
 ## 💻 Project
 
-The ***Return Array***,  is a Project that **Return the Array selected objects**. With the purpose of training ***Script***, ***Array Access*** and ***Array Propeties***, using ***Loop***. Made with **Javascript**.
+The ***Return Array***,  is a Project that **Return the Array of selected objects**. With the purpose of training ***Script***, ***Array Access*** and ***Array Propeties***, using ***Loop***. Made with **Javascript**.
 
 ## 🤔 How to contribute
 
