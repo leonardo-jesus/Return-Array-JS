@@ -1,5 +1,5 @@
 <p align="center">
-	<h1 align="center">Verify Pairs :mag_right:</h1>
+	<h1 align="center">Return Array :file_folder:</h1>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ This project was developed with the following technology:
 
 ## 💻 Project
 
-The ***Verify Pairs***,  is a Project that **Verify the pairs numbers** in a interval of numbers. With the purpose of training ***Script***, using ***Loop*** and ***If statement***, made with **Javascript**.
+The ***Return Array***,  is a Project that **Return the Array selected objects**. With the purpose of training ***Script***, ***Array Access*** and ***Array Propeties***, using ***Loop***. Made with **Javascript**.
 
 ## 🤔 How to contribute
 
